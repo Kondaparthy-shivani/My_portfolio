@@ -342,4 +342,8 @@ export default function App() {
       </footer>
     </div>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3afa8085413f072788a21cd5dca1d1b1b3cef072
